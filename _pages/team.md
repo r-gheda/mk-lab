@@ -1,11 +1,10 @@
 ---
 layout: default
 permalink: /team/
-title: Team 
-# description: 
+title: Team
+# description:
 nav: true
 nav_order: 4
-
 ---
 
 <div class="header-bar">
@@ -218,7 +217,6 @@ nav_order: 4
   </div>
   </a>
   </div>
-
 
 </div>
 </div>
